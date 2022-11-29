@@ -1,14 +1,13 @@
 /* Content
+
 - General
 - Header
 - Nav
 - Hero
 - Content
-- Benefits
-*/
+- Benefits */
 
 /* General */
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -29,7 +28,6 @@ p {
 }
 
 /* Header */
-
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -65,7 +63,6 @@ nav ul li {
 }
 
 /* Hero */
-
 .hero {
     height: 800px;
     width: 100%;
@@ -76,7 +73,6 @@ nav ul li {
 }
 
 /* Content */
-
 .content {
     width: 75%;
     display: inline-block;
@@ -112,7 +108,6 @@ nav ul li {
 }
 
 /* Benefits */
-
 .benefits {
     margin-right: 20px;
     padding: 20px;

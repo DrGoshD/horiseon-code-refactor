@@ -13,5 +13,12 @@ Some of the errors encountered:
 <!-- removed footer-->
 <!-- dry code removed-->
 
-## 
+## Screenshot
+
+![alt text](assets/images/screencapture-127-0-0-1-5500-index-html-2022-11-29-23_50_27.png)
+
+## Resources
+
+- [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Image alt attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
